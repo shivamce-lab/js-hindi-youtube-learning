@@ -37,5 +37,11 @@ console.log(typeof birdpresent);
 console.log(typeof id);
 console.log(typeof myFunction);
 
+// +++++++++++++++++
+
+let myname= "Shivam"
+let anothername = myname
+console.log(anothername);
+console.log(myname);
 
 
